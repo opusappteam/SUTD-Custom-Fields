@@ -4,7 +4,7 @@
 /*
  * @version $Id: ticket.class.php 23291 2015-01-14 15:20:22Z tsmr $
  -------------------------------------------------------------------------
- GLPI - Gestionnaire Libre de Parc Informatique
+ GLPI - Gestionnaire Libre de Parc Informatique.
  Copyright (C) 2003-2014 by the INDEPNET Development Team.
 
  http://indepnet.net/   http://glpi-project.org
